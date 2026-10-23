@@ -1,6 +1,6 @@
 # aika-modpack-minecraft-1.21.1
 
-Modpack criado para jogar com amigos, mantendo a experiência vanilla puríssima, sem alterar a gameplay original. Inclui mods essenciais, E4MC para jogar online gratuitamente, sem precisar de Realms, e LAN Server Properties para permitir partidas entre Minecraft original e pirata.
+Modpack criado para jogar com amigos, mantendo a experiência vanilla puríssima, sem alterar a gameplay original. Inclui mods essenciais, E4all para jogar online gratuitamente, sem precisar de Realms, e LAN Server Properties para permitir partidas entre Minecraft original e pirata.
 
 Seus amigos podem jogar sem instalar nenhum mod: basta você instalar o modpack e configurar a partida. Porém, se quiserem aproveitar os mods essenciais, eles também podem instalar o modpack completo!
 
